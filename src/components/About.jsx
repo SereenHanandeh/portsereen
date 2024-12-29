@@ -91,6 +91,8 @@ When working with me, you can expect dedication, attention to detail, and a stro
               style={{
                 transition:
                   "transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out, border-color 0.3s ease-in-out",
+                width: "700px",
+                height: "250px",
               }}
             />
           </motion.div>
